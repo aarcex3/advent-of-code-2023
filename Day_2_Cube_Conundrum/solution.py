@@ -31,6 +31,6 @@ def solution_part_2(games: str) -> int:
     return total
 
 
-with open("puzzles.txt", "r", encoding="utf-8") as f:
-    lines = f.read()
-print(solution_part_2(lines))
+# with open("puzzles.txt", "r", encoding="utf-8") as f:
+#     lines = f.read()
+# print(solution_part_2(lines))
